@@ -5,5 +5,5 @@ Future Improvements:
     -We can implement feature B to add new functionality like blinking for instance.
     -We can improve user interface on mobile for better user experience. 
    
-   
-This project is open-source and is licensed under the [Open Source License].
+Licence Information:   
+This project is licensed under the MIT License.
